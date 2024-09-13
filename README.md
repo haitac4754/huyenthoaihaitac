@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Huyền Thoại Hải Tặc _Server_Termux 👋</h1>
 <img alt="Homepage" src="https://github.com/KhanhNguyen9872/Ninja_Server_Termux/raw/main/image/Homepage.png" />
-## Mua Key Huyền Thoại Hải Tặc server Termux ?
+## Install
  - key sẽ bị xóa sau khi cài đặt thành công
  - thời gian sử dụng vĩnh viễn
  - mua key tại https://gmtoolgame.tudong.pro/ 
