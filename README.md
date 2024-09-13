@@ -3,16 +3,12 @@
 
 <p>
 > Huyền Thoại Hải Tặc Server on Termux Android
-
-### 🏠 [Homepage](https://khanhnguyen9872.github.io/Ninja_Server_Termux#)
-
-### ✨ [Video & Screenshot](https://github.com/KhanhNguyen9872/Ninja_Server_Termux/blob/main/DEMO.md)
-
-# Mua Key Huyền Thoại Hải Tặc server Termux [MoonSmile]?
+# Mua Key Huyền Thoại Hải Tặc server Termux ?
  - key sẽ bị xóa sau khi cài đặt thành công
  - thời gian sử dụng vĩnh viễn
- - mua key tại https://gmtoolgame.tudong.pro/
+ - mua key tại https://gmtoolgame.tudong.pro/ 
  - Giá key 100k
+ - hướng dẫn mua key : [https://youtu.be/puTeSrOrfL4](https://youtu.be/Wyt_f7hEoCQ)
 
 ## Install
  - Tutorial: [https://youtu.be/puTeSrOrfL4](https://youtu.be/Wyt_f7hEoCQ)
@@ -44,7 +40,7 @@ install
 - [x] 32bit ARM
 - [x] 64bit ARM
 - [ ] 32bit x86
-- [x] 64bit x86_64 [[LDPlayer9](https://github.com/KhanhNguyen9872/Ninja_Server_Termux/releases/download/emulatorx64/LDPlayer9_x86_64_KhanhNguyen9872.exe)]
+- [x] 64bit x86_64
 
 - Android:
 - [x] 7
@@ -52,8 +48,9 @@ install
 - [x] 9
 - [x] 10
 - [x] 11
-- [x] 12 [May crash]
-- [ ] 13 [Unknown]
+- [x] 12 
+- [ ] 13
+- [ ] 14
 
 ## Download Emulator (x86_64)
 
@@ -65,11 +62,10 @@ install
 
 ## Author
 
-👤 **KhanhNguyen9872**
+👤 **haitac4754**
 
-* Website: KhanhNguyen9872.github.io
-* Twitter: [@Khnh59855418](https://twitter.com/Khnh59855418)
-* Github: [@KhanhNguyen9872](https://github.com/KhanhNguyen9872)
+* Website: (https://gmtoolgame.tudong.pro/ )
+* Github: [@haitac4754](https://github.com/haitac4754)
 
 ## 🤝 Contributing
 
@@ -81,7 +77,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2022 [KhanhNguyen9872](https://github.com/KhanhNguyen9872).<br />
-This project is [KhanhNguyen9872](https://github.com/KhanhNguyen9872) licensed.
+Copyright © 2022 (https://github.com/haitac4754).<br />
+This project is [KhanhNguyen9872]((https://github.com/haitac4754)) licensed.
 
 ***
