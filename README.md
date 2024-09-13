@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to Huyền Thoại Hải Tặc _Server_Termux 👋</h1>
 <img alt="Homepage" src="https://github.com/KhanhNguyen9872/Ninja_Server_Termux/raw/main/image/Homepage.png" />
-## Install
+  Chìa khóa Huyền Thoại hải tặc server termux
+
  - key sẽ bị xóa sau khi cài đặt thành công
  - thời gian sử dụng vĩnh viễn
  - mua key tại https://gmtoolgame.tudong.pro/ 
@@ -64,17 +65,9 @@ install
 * Website: (https://gmtoolgame.tudong.pro/ )
 * Github: [@haitac4754](https://github.com/haitac4754)
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/KhanhNguyen9872/Ninja_Server_Termux/issues). You can also take a look at the [contributing guide](https://github.com/KhanhNguyen9872/Ninja_Server_Termux/blob/main/README.md).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
 ## 📝 License
 
 Copyright © 2022 (https://github.com/haitac4754).<br />
-This project is [KhanhNguyen9872]((https://github.com/haitac4754)) licensed.
+This project is [haitac4754]((https://github.com/haitac4754)) licensed.
 
 ***
