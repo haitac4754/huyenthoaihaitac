@@ -1,4 +1,4 @@
-@ Version 10.6
+@ Version 1
 - Thêm tính năng fix lỗi Android 12 Crash Termux, VMOS, VPhoneGaGa, F1VM, X8 Sandbox,...
 
 LƯU Ý: KHUYẾN KHÍCH NÊN BACKUP DATA GAME SAU ĐÓ CÀI ĐẶT LẠI
