@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Ninja_Server_Termux 👋</h1>
+<h1 align="center">Welcome to Huyền Thoại Hải Tặc _Server_Termux 👋</h1>
 <img alt="Homepage" src="https://github.com/KhanhNguyen9872/Ninja_Server_Termux/raw/main/image/Homepage.png" />
 
 <p>
@@ -33,15 +33,17 @@
     <img alt="Star Total" src="https://img.shields.io/github/stars/KhanhNguyen9872/Ninja_Server_Termux?style=social" />
 </a>
 
-> Ninja School Server on Termux Android
+> Huyền Thoại Hải Tặc Server on Termux Android
 
 ### 🏠 [Homepage](https://khanhnguyen9872.github.io/Ninja_Server_Termux#)
 
 ### ✨ [Video & Screenshot](https://github.com/KhanhNguyen9872/Ninja_Server_Termux/blob/main/DEMO.md)
 
-# Mua Key Server FullNhiemVu-VIP-2022 [MoonSmile]?
- - Chuyển khoản 20k vào số momo 0328460695 hoặc ib zalo gửi thẻ gì đó thì tùy, sau đó inbox zalo để nhận key vĩnh viễn nhé!
- - Lưu ý! Nên cài và sử dụng các server free khác trước khi mua server này! Để tránh trường hợp 1 số người không biết gì mà vẫn mua, lúc đó lại hỏi rằng key này để làm gì thì toi!
+# Mua Key Huyền Thoại Hải Tặc server Termux [MoonSmile]?
+ - key sẽ bị xóa sau khi cài đặt thành công
+ - thời gian sử dụng vĩnh viễn
+ - mua key tại https://gmtoolgame.tudong.pro/
+ - Giá key 100k
 
 ## Install
  - Tutorial: [https://youtu.be/puTeSrOrfL4](https://youtu.be/Wyt_f7hEoCQ)
