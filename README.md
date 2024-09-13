@@ -2,37 +2,6 @@
 <img alt="Homepage" src="https://github.com/KhanhNguyen9872/Ninja_Server_Termux/raw/main/image/Homepage.png" />
 
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-10.6-blue.svg?cacheSeconds=2592000" />
-  <img alt="Update" src="https://img.shields.io/badge/update-08/12/2022-blue.svg?cacheSeconds=2592000" />
-  <br />
-  <img alt="Build Status" src="https://cloud.drone.io/api/badges/KhanhNguyen9872/Ninja_Server_Termux/status.svg" />
-
-  <a href="https://github.com/KhanhNguyen9872/Ninja_Server_Termux#" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="https://github.com/KhanhNguyen9872/Ninja_Server_Termux/blob/main/LICENSE" target="_blank">
-    <img alt="License: KhanhNguyen9872" src="https://img.shields.io/badge/License-KhanhNguyen9872-yellow.svg" />
-  </a>
-  <br />
-  <img alt="Github Download" src="https://img.shields.io/github/downloads/KhanhNguyen9872/Ninja_Server_Termux/total.svg?style=for-the-badge" />
-  <img alt="Github Releases" src="https://img.shields.io/github/release/KhanhNguyen9872/Ninja_Server_Termux.svg?style=for-the-badge" />
-</p>
-<a href="https://twitter.com/Khnh59855418" target="_blank">
-    <img alt="Twitter: khanh9872" src="https://img.shields.io/twitter/follow/Khnh59855418.svg?style=social" />
-</a>
-
-<a href="https://github.com/KhanhNguyen9872" target="_blank">
-    <img alt="Follow Total" src="https://img.shields.io/github/followers/KhanhNguyen9872?style=social" />
-</a>
-
-<a href="https://github.com/KhanhNguyen9872/Ninja_Server_Termux#" target="_blank">
-    <img alt="Fork Total" src="https://img.shields.io/github/forks/KhanhNguyen9872/Ninja_Server_Termux?style=social" />
-</a>
-
-<a href="https://github.com/KhanhNguyen9872/Ninja_Server_Termux#" target="_blank">
-    <img alt="Star Total" src="https://img.shields.io/github/stars/KhanhNguyen9872/Ninja_Server_Termux?style=social" />
-</a>
-
 > Huyền Thoại Hải Tặc Server on Termux Android
 
 ### 🏠 [Homepage](https://khanhnguyen9872.github.io/Ninja_Server_Termux#)
