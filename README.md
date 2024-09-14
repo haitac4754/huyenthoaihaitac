@@ -1,11 +1,11 @@
-<h1 align="center">Welcome to Huyền Thoại Hải Tặc _Server_Termux 👋</h1>
+<h1 align="center">Welcome to Huyền Thoại Hải Tặc _Server_Termux </h1>
 <img alt="7" src="https://github.com/haitac4754/huyenthoaihaitac/blob/main/image/7.png" />
 <img alt="Homepage" src="https://github.com/haitac4754/huyenthoaihaitac/blob/main/image/5.png" />
   Chìa khóa Huyền Thoại hải tặc server termux
 
- - key sẽ bị xóa sau khi cài đặt thành công
+ - key sẽ bị xóa khỏi hệ thống sau khi cài đặt thành công
  - thời gian sử dụng vĩnh viễn
- - mua key tại https://gmtoolgame.tudong.pro/ 
+ - mua key tại https://gmtoolgame.tudong.pro/keyhtht 
  - Giá key 100k
  - hướng dẫn sử dụng : [https://youtu.be/puTeSrOrfL4](https://youtu.be/Wyt_f7hEoCQ)
 
