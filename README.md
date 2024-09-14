@@ -1,13 +1,13 @@
 <h1 align="center">Welcome to Huyền Thoại Hải Tặc _Server_Termux 👋</h1>
-<img alt="Homepage" src="https://github.com/haitac4754/huyenthoaihaitac/blob/main/image/7.png" />
-<img alt="Homepage" src="https://github.com/haitac4754/huyenthoaihaitac/blob/main/image/6.png" />
+<img alt="7" src="https://github.com/haitac4754/huyenthoaihaitac/blob/main/image/7.png" />
+<img alt="Homepage" src="https://github.com/haitac4754/huyenthoaihaitac/blob/main/image/5.png" />
   Chìa khóa Huyền Thoại hải tặc server termux
 
  - key sẽ bị xóa sau khi cài đặt thành công
  - thời gian sử dụng vĩnh viễn
  - mua key tại https://gmtoolgame.tudong.pro/ 
  - Giá key 100k
- - hướng dẫn mua key : [https://youtu.be/puTeSrOrfL4](https://youtu.be/Wyt_f7hEoCQ)
+ - hướng dẫn sử dụng : [https://youtu.be/puTeSrOrfL4](https://youtu.be/Wyt_f7hEoCQ)
 
 ## Install
  - Hướng dẫn cài đặt: [https://youtu.be/puTeSrOrfL4](https://youtu.be/Wyt_f7hEoCQ)
@@ -33,7 +33,11 @@ install
 5 - Choose Source you want to use! 
  
 6 - Enjoy!
-
+<img alt="Homepage" src="https://github.com/haitac4754/huyenthoaihaitac/blob/main/image/6.png" />
+<img alt="Homepage" src="https://github.com/haitac4754/huyenthoaihaitac/blob/main/image/4.png" />
+<img alt="Homepage" src="https://github.com/haitac4754/huyenthoaihaitac/blob/main/image/1.png" />
+<img alt="Homepage" src="https://github.com/haitac4754/huyenthoaihaitac/blob/main/image/2.png" />
+<img alt="Homepage" src="https://github.com/haitac4754/huyenthoaihaitac/blob/main/image/3.png" />
 ## System Requirements
 - Architecture:
 - [x] 32bit ARM
