@@ -1,5 +1,6 @@
 <h1 align="center">Welcome to Huyền Thoại Hải Tặc _Server_Termux 👋</h1>
-<img alt="Homepage" src="https://github.com/KhanhNguyen9872/Ninja_Server_Termux/raw/main/image/Homepage.png" />
+<img alt="Homepage" src="https://github.com/haitac4754/huyenthoaihaitac/blob/main/image/7.png" />
+<img alt="Homepage" src="https://github.com/haitac4754/huyenthoaihaitac/blob/main/image/6.png" />
   Chìa khóa Huyền Thoại hải tặc server termux
 
  - key sẽ bị xóa sau khi cài đặt thành công
@@ -9,7 +10,7 @@
  - hướng dẫn mua key : [https://youtu.be/puTeSrOrfL4](https://youtu.be/Wyt_f7hEoCQ)
 
 ## Install
- - Tutorial: [https://youtu.be/puTeSrOrfL4](https://youtu.be/Wyt_f7hEoCQ)
+ - Hướng dẫn cài đặt: [https://youtu.be/puTeSrOrfL4](https://youtu.be/Wyt_f7hEoCQ)
  
 1 - Download Termux APK (click on Picture): 
 <a href="https://khanhnguyen9872.github.io/Ninja_Server_Termux/CONF_FILE/termux_0.118.apk" target="_blank">
