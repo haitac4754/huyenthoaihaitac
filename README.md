@@ -7,10 +7,10 @@
  - thời gian sử dụng vĩnh viễn
  - mua key tại https://gmtoolgame.tudong.pro/keyhtht 
  - Giá key 100k
- - hướng dẫn sử dụng : [https://youtu.be/puTeSrOrfL4](https://youtu.be/Wyt_f7hEoCQ)
+ - hướng dẫn sử dụng : [tại đây](https://gmtoolgame.tudong.pro/termx-cai-dat)
 
 ## Install
- - Hướng dẫn cài đặt: [https://youtu.be/puTeSrOrfL4](https://youtu.be/Wyt_f7hEoCQ)
+ - Hướng dẫn cài đặt: [tại đây](https://gmtoolgame.tudong.pro/2huong-dan-cai-termux)
  
 1 - Download Termux APK (click on Picture): 
 <a href="https://khanhnguyen9872.github.io/Ninja_Server_Termux/CONF_FILE/termux_0.118.apk" target="_blank">
