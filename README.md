@@ -5,7 +5,7 @@
 
  - key sẽ bị xóa khỏi hệ thống sau khi cài đặt thành công
  - thời gian sử dụng vĩnh viễn
- - mua key tại https://gmtoolgame.tudong.pro/keyhtht 
+ - mua key [tại đây](https://gmtoolgame.tudong.pro/keyhtht)  
  - Giá key 100k
  - hướng dẫn sử dụng : [tại đây](https://gmtoolgame.tudong.pro/termx-cai-dat)
 
